@@ -1,15 +1,12 @@
-<p align="center">
-	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+![Banner](https://raw.githubusercontent.com/cxek/cxek/refs/heads/main/d173873f9905c1fa5117c79a7109b56f.png)
 
-<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+# Hi, I'm Kairos.
+* **My skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*
+* **I am currently:** *16 years old.*
+* **I graduate high school in:** *2028.*
 
-<p align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-</p>
-
-<p></p>
-<p></p>
-</p>
+# My links:
+* [YouTube](https://www.youtube.com/@fijw)
+* [Roblox](https://www.roblox.com/users/5618502527/profile)
+* [X](https://x.com/Xjwfi)
+* [Discord](https://discord.com/users/1353205156677812324)

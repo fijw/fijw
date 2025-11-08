@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/cxek/cxek/refs/heads/main/d173873f9905c1fa5117c79a7109b56f.png)
+![Banner](https://raw.githubusercontent.com/fijw/fijw/refs/heads/main/noFilter.png)
 
 # Hi, I'm Kairos.
 * **My skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*

@@ -13,4 +13,4 @@
 * [Spotify](https://open.spotify.com/user/31n63zuwzmtd6l7tyguua2wj5hpy)
 * [Guilded](https://www.guilded.gg/u/jwfi)
 
-# Hirable status: ✅ ($35/hr via PayPal or Cash App)
+# Hirable status: ✅ ($50/hr via PayPal or Cash App)

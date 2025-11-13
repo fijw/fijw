@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/fijw/fijw/refs/heads/main/noFilter.png)
 
 # About me:
-* **My skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*
+* **My programming skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*
 * **I am currently:** *16 years old.*
 * **I graduate high school in:** *2028.*
 

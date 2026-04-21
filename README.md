@@ -6,6 +6,7 @@
 * **I graduate high school in:** *2028.*
 
 # My links:
+* [Website](https://k-4.win/)
 * [YouTube](https://www.youtube.com/@fijw)
 * [Roblox](https://www.roblox.com/users/5618502527/profile)
 * [X](https://x.com/Xjwfi)

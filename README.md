@@ -10,7 +10,7 @@
 * [YouTube](https://www.youtube.com/@fijw)
 * [Roblox](https://www.roblox.com/users/5618502527/profile)
 * [X](https://x.com/Xjwfi)
-* [Discord](https://discord.com/users/1353205156677812324)
+* [Discord](https://discord.com/users/1276799607887888519)
 * [Spotify](https://open.spotify.com/user/31n63zuwzmtd6l7tyguua2wj5hpy)
 
 # Hirable status: ✅ ($35-100/hr via PayPal or Cash App)

@@ -38,4 +38,5 @@ int main()
 * [Discord](https://discord.com/users/1353205156677812324)
 * [Spotify](https://open.spotify.com/user/31n63zuwzmtd6l7tyguua2wj5hpy)
 
-![Banner](https://raw.githubusercontent.com/fijw/fijw/refs/heads/main/noFilter.png)
+# Metherberg
+![Banner](https://raw.githubusercontent.com/fijw/fijw/refs/heads/main/metherberg.jpg)

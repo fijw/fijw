@@ -3,9 +3,9 @@
 ## About me
 * I'm a **language-agnostic programmer**
 * I was born **September 6, 2009**
-* I **aim** to **get** a **B.S. in Computer Science**
-* I am **interested** in **systems programming**, **programming languages**, and **game development**.
-* I have been coding **roughly** since **2020**
+* I aim to get a **B.S. in Computer Science**
+* I am interested in **systems programming**, **programming languages**, and **game development**.
+* I have been coding roughly since **2020**
 
 ## My links
 * [Website](https://k-4.win/)
